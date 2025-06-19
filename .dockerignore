@@ -1,0 +1,7 @@
+.git
+.idea
+/bin
+/dist
+/docs
+/npm-debug.log
+node_modules
